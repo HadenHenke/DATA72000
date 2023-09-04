@@ -1,3 +1,4 @@
 # DATA72000
 MSc Data Science Dissertation
-## Link to code
+[Click here to view Code.ipynb](Code.ipynb)
+
